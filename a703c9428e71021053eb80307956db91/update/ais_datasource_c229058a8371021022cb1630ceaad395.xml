@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Devices Table</name>
+        <retention_policy/>
+        <source>x_1209942_device_1_devices</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:45:02</sys_created_on>
+        <sys_id>c229058a8371021022cb1630ceaad395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Devices Table</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>ais_datasource_c229058a8371021022cb1630ceaad395</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:45:02</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

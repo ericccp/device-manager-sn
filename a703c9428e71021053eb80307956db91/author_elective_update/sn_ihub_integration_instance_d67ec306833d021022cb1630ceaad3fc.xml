@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description/>
+        <integration_table>x_1209942_device_1_apidata</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>First Data Import</name>
+        <record_id>87ae4b06833d021022cb1630ceaad31b</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 00:27:51</sys_created_on>
+        <sys_id>d67ec306833d021022cb1630ceaad3fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>First Data Import</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_d67ec306833d021022cb1630ceaad3fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 00:28:34</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sn_ihub_integration_instance_d67ec306833d021022cb1630ceaad3fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description/><integration_table>x_1209942_device_1_apidata</integration_table><integration_type/><internal_name/><name>First Data Import</name><record_id>87ae4b06833d021022cb1630ceaad31b</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-28 00:27:51</sys_created_on><sys_id>d67ec306833d021022cb1630ceaad3fc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>First Data Import</sys_name><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sn_ihub_integration_instance_d67ec306833d021022cb1630ceaad3fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-28 00:28:34</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>348427337</payload_hash>
+        <record_name>First Data Import</record_name>
+        <reverted_from/>
+        <source>30134d428371021022cb1630ceaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 00:28:35</sys_created_on>
+        <sys_id>c2bec706833d021022cb1630ceaad380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f221a877e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 00:28:35</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>8abec706823d02108c5c5e3fa4e4077f</update_guid>
+        <update_guid_history>8abec706823d02108c5c5e3fa4e4077f:348427337,1b9ecfc2a53d02103688c4f9fc5ff3f1:221747831,5b8e47066a3d0210e310836c6276107f:-1114421124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="First Data Import">f3a05f46833d021022cb1630ceaad35e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 00:37:10</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>0c3dc2258156487884710fba369f77c4</sys_id>
+        <sys_metadata>d67ec306833d021022cb1630ceaad3fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First Data Import</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_d67ec306833d021022cb1630ceaad3fc</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_d67ec306833d021022cb1630ceaad3fc">c2bec706833d021022cb1630ceaad380</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 00:37:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

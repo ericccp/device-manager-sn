@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Transfer Device">456397ca833d021022cb1630ceaad3bb</catalog_item>
+        <catalog_variable>IO:b997eb8e83bd021022cb1630ceaad392</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 02:25:59</sys_created_on>
+        <sys_id>68996f8283fd021022cb1630ceaad342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>lifecycle_stage</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_68996f8283fd021022cb1630ceaad342</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 02:25:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Lifecycle Stage">b6092b8283fd021022cb1630ceaad32a</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>lifecycle_stage</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=68996f8283fd021022cb1630ceaad342"/>
+</record_update>

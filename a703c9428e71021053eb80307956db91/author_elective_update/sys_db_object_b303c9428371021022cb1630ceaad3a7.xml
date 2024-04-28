@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>NeedIt</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1209942_device_1_needit</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">4d0d6d1a8d30021087de63ac7f1f00b9</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:18:24</sys_created_on>
+        <sys_id>b303c9428371021022cb1630ceaad3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device 1 Needit</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sys_db_object_b303c9428371021022cb1630ceaad3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:18:24</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sys_db_object_b303c9428371021022cb1630ceaad3a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>NeedIt</label><live_feed_enabled>false</live_feed_enabled><name>x_1209942_device_1_needit</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">4d0d6d1a8d30021087de63ac7f1f00b9</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 14:18:24</sys_created_on><sys_id>b303c9428371021022cb1630ceaad3a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Device 1 Needit</sys_name><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sys_db_object_b303c9428371021022cb1630ceaad3a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 14:18:24</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2034403837</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:44:11</sys_created_on>
+        <sys_id>21f8854a8371021022cb1630ceaad361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f200380dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:44:11</sys_updated_on>
+        <type>Table</type>
+        <update_guid>edf8854a1a710210147be8f01db79360</update_guid>
+        <update_guid_history>edf8854a1a710210147be8f01db79360:2034403837</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:44:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>108ff171aca64de284e96828cc16c561</sys_id>
+        <sys_metadata>b303c9428371021022cb1630ceaad3a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device 1 Needit</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sys_db_object_b303c9428371021022cb1630ceaad3a7</sys_update_name>
+        <sys_update_version display_value="sys_db_object_b303c9428371021022cb1630ceaad3a7">21f8854a8371021022cb1630ceaad361</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:44:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

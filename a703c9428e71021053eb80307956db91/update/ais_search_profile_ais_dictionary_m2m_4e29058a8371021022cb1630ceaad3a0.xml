@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1209942_device_1_device_manager_search_profile_default_spell_check_dictionary">0e29058a8371021022cb1630ceaad39d</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="device-manager Search Profile">5429818a0b7102101a72363537329e8a</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:45:02</sys_created_on>
+        <sys_id>4e29058a8371021022cb1630ceaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1209942_device_1_device_manager_search_profile_default_spell_check_dictionary.device-manager Search Profile</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_4e29058a8371021022cb1630ceaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:45:02</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

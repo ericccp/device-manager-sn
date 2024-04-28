@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[
+    {
+        "definition": {
+            "id": "f552e6a932780394b6f06c14071aa115",
+            "type": "MACROPONENT"
+        },
+        "elementId": "dashboard_1",
+        "elementLabel": "Dashboard 1",
+        "eventMappings": [
+            {
+                "eventMappingId": "claagnddeeoqaacciirddwggyggoqshhikii",
+                "isConfiguration": false,
+                "offRowStorageId": null,
+                "sourceEventApiName": "sn_dashboard.DASHBOARD_DESIGNER#REDIRECT_DASHBOARDS_OVERVIEW",
+                "sourceEventCorrelationId": null,
+                "sourceEventDefinition": {
+                    "apiName": "sn_dashboard.DASHBOARD_DESIGNER#REDIRECT_DASHBOARDS_OVERVIEW",
+                    "id": null,
+                    "type": "UXEVENT"
+                },
+                "sourceEventSysId": null,
+                "targets": [
+                    {
+                        "broker": null,
+                        "clientScript": {
+                            "sysId": "9f2fc64283f5021022cb1630ceaad360"
+                        },
+                        "conditional": null,
+                        "declarativeAction": null,
+                        "event": null,
+                        "operation": null,
+                        "targetId": "claagnddeeoqaacciisddwggyddkfaaffxig",
+                        "type": "CLIENT_SCRIPT"
+                    }
+                ]
+            }
+        ],
+        "extensionPoints": [
+            
+        ],
+        "isHero": false,
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "isNonDestructive": false,
+        "items": [
+            
+        ],
+        "overrides": null,
+        "propertyValues": {
+            "dashboardSysId": {
+                "binding": {
+                    "address": [
+                        "sysId"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "defaultDashboard": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "defaultDrilldowns": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "editMode": {
+                "binding": {
+                    "address": [
+                        "edit"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "element": {
+                "binding": {
+                    "address": [
+                        "element"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "experienceId": {
+                "binding": {
+                    "address": [
+                        "appId"
+                    ],
+                    "category": "app"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "filterId": {
+                "binding": {
+                    "address": [
+                        "filter"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "globalFilters": {
+                "binding": {
+                    "address": [
+                        "unifiedFilters"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "hideCreateNewButton": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "hideDashboardPicker": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "hideEditButton": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "hideHeader": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "hideShareButton": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "showPrintPreview": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "tabSysId": {
+                "binding": {
+                    "address": [
+                        "tabSysId"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "userInfo": {
+                "binding": {
+                    "address": [
+                        "user"
+                    ],
+                    "category": "session"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "slot": null,
+        "styles": null
+    },
+    {
+        "definition": {
+            "id": "9d31ba4d773ce32ef350d4555b673f6e",
+            "type": "MACROPONENT"
+        },
+        "elementId": "indicator_scorecard_1",
+        "elementLabel": "Indicator scorecard 1",
+        "eventMappings": [
+            
+        ],
+        "isHidden": {
+            "type": "JSON_LITERAL",
+            "value": null
+        },
+        "preset": null,
+        "propertyValues": {
+            "aggregateId": {
+                "type": "JSON_LITERAL",
+                "value": "default"
+            },
+            "allowChangeBreakdown": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "breakdownVisibilitySelector": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "breakdowns": {
+                "type": "JSON_LITERAL",
+                "value": [
+                    {
+                        "breakdownId": "b33e37818339421022cb1630ceaad390",
+                        "breakdownLabel": "Catalog Item",
+                        "elementIds": [
+                            
+                        ],
+                        "perPage": 5
+                    }
+                ]
+            },
+            "colorSchemeId": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "description": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": ""
+                }
+            },
+            "enableDrilldown": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "filterConfigurations": {
+                "binding": {
+                    "address": [
+                        "parFilters"
+                    ]
+                },
+                "type": "STATE_BINDING"
+            },
+            "followFilters": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "heading": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "code": null,
+                    "comment": "",
+                    "message": "Catalog Usage Over Time"
+                }
+            },
+            "indicatorGroup": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "indicators": {
+                "type": "JSON_LITERAL",
+                "value": [
+                    {
+                        "actions": [
+                            
+                        ],
+                        "children": {
+                            "children": [
+                                {
+                                    "elm": {},
+                                    "text": "Catalog Item Usage Count (Daily)"
+                                }
+                            ],
+                            "data": {
+                                "attrs": {},
+                                "class": {},
+                                "hook": {},
+                                "now-aria-ref": null,
+                                "on": {},
+                                "props": {
+                                    "className": "label"
+                                },
+                                "ref": null,
+                                "style": {}
+                            },
+                            "elm": {},
+                            "sel": "div"
+                        },
+                        "contextMenuActions": [
+                            {
+                                "disabled": false,
+                                "icon": "sliders-outline",
+                                "id": "edit",
+                                "label": "Edit"
+                            },
+                            {
+                                "disabled": false,
+                                "icon": "pencil-page-outline",
+                                "id": "rename",
+                                "label": "Rename"
+                            },
+                            {
+                                "disabled": false,
+                                "icon": "trash-outline",
+                                "id": "delete",
+                                "label": "Delete"
+                            }
+                        ],
+                        "icon": "analytics-center-outline",
+                        "id": "a3feb7c18339421022cb1630ceaad3ec",
+                        "isDraggable": true,
+                        "label": "Catalog Item Usage Count (Daily)",
+                        "order": 0
+                    },
+                    {
+                        "id": "728104d58339421022cb1630ceaad300",
+                        "label": "Active Catalog Item Usage Count (Weekly)",
+                        "order": 1
+                    },
+                    {
+                        "id": "83e1c8d58339421022cb1630ceaad30d",
+                        "label": "Active Catalog Item Usage Count (Monthly)",
+                        "order": 2
+                    }
+                ]
+            },
+            "metrics": {
+                "type": "JSON_LITERAL",
+                "value": {
+                    "fields": [
+                        "lastScore"
+                    ]
+                }
+            },
+            "nestedBreakdown": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "pageSize": {
+                "type": "JSON_LITERAL",
+                "value": "10"
+            },
+            "query": {
+                "type": "JSON_LITERAL",
+                "value": "indicator.display=true^indicator.benchmarking=false"
+            },
+            "scorecardType": {
+                "type": "JSON_LITERAL",
+                "value": "list"
+            },
+            "showAlternateRowColors": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showBookmarkedOnly": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "showBreakdownsOnly": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "showColumnDividers": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showFavorite": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showFilterElement": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showFilterIcon": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showHeader": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showIndicatorInfo": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "showRowDividers": {
+                "type": "JSON_LITERAL",
+                "value": true
+            },
+            "sortBy": {
+                "type": "JSON_LITERAL",
+                "value": "default"
+            },
+            "sortDir": {
+                "type": "JSON_LITERAL",
+                "value": "asc"
+            },
+            "sourceType": {
+                "type": "JSON_LITERAL",
+                "value": "1"
+            },
+            "swapBreakdownsAsColumns": {
+                "type": "JSON_LITERAL",
+                "value": false
+            }
+        },
+        "slot": null,
+        "styles": null
+    }
+]</composition>
+        <da_relay_models/>
+        <data>[
+    
+]</data>
+        <description>Provides the ability to display multiple kinds of information, including data visualizations, filters, and text on a single screen with one or more tabs. Use dashboards to create a story with data that you can share with multiple users.</description>
+        <dispatched_events>166595d6b70201109fda8079ce11a904</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{}</internal_event_mappings>
+        <layout>{
+    "default": {
+        "children": null,
+        "isInline": null,
+        "items": [
+            {
+                "element_id": "dashboard_1",
+                "styles": {
+                    "height": ""
+                }
+            },
+            {
+                "element_id": "indicator_scorecard_1",
+                "styles": {}
+            }
+        ],
+        "root": null,
+        "rules": null,
+        "styles": {
+            "flex-direction": "column",
+            "height": "100%"
+        },
+        "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+        "type": "flex"
+    },
+    "version": "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>Main Dashboard</name>
+        <output_prop_mapping/>
+        <props>[
+    {
+        "defaultValue": null,
+        "description": "",
+        "disabled": false,
+        "fieldType": "string",
+        "label": "Element",
+        "mandatory": false,
+        "name": "element",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "",
+        "disabled": false,
+        "fieldType": "string",
+        "label": "filter",
+        "mandatory": false,
+        "name": "filter",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "defaultValue": null,
+        "description": "",
+        "disabled": false,
+        "fieldType": "string",
+        "label": "tabSysId",
+        "mandatory": false,
+        "name": "tabSysId",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "defaultValue": "",
+        "description": "",
+        "disabled": false,
+        "fieldType": "string",
+        "label": "Edit",
+        "mandatory": false,
+        "name": "edit",
+        "readOnly": true,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "defaultValue": "",
+        "description": "",
+        "disabled": false,
+        "fieldType": "string",
+        "label": "sysId",
+        "mandatory": false,
+        "name": "sysId",
+        "readOnly": true,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
+    },
+    {
+        "description": "Unified Filters are sent to the dashboard serve as filters for the visualizations within the dashboard.\n\nExample: JSON.stringify({\"encodedQueries\":{\"incident\":\"category=inquiry^state=7\"},\"parFilters\":[{\"order\":0,\"label\":\"Priority\",\"type\":\"choice\",\"apply_to\":[\"incident.priority\"],\"values\":[\"3\",\"5\"]}]})",
+        "fieldType": "json",
+        "id": "unifiedFilters",
+        "label": "unifiedFilters",
+        "name": "unifiedFilters",
+        "translatable": false
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Active Catalog Item Usage Count (Monthly)",
+  "comment" : ""
+}, {
+  "message" : "Active Catalog Item Usage Count (Weekly)",
+  "comment" : ""
+}, {
+  "message" : "Catalog Item Usage Count (Daily)",
+  "comment" : ""
+}, {
+  "message" : "Catalog Usage Over Time",
+  "comment" : ""
+}, {
+  "message" : "Delete",
+  "comment" : ""
+}, {
+  "message" : "Edit",
+  "comment" : ""
+}, {
+  "message" : "Rename",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{}</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[
+    
+]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 19:50:58</sys_created_on>
+        <sys_id>5f2fc64283f5021022cb1630ceaad357</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Main Dashboard</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sys_ux_macroponent_5f2fc64283f5021022cb1630ceaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 19:57:06</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f2fc64283f5021022cb1630ceaad357"/>
+</record_update>

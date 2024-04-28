@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=16000" db_object_id="5b0b4aca83b5021022cb1630ceaad3fc" extends="task" label="Device Support Requests" max_length="40" name="x_1209942_device_1_device_support_requests" type="collection">
+        <element label="Device" max_length="32" name="device" reference="x_1209942_device_1_devices" type="reference"/>
+        <element label="Shop" max_length="32" name="shop" reference="x_1209942_device_1_shops" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=16000" db_object_id="dbcf8386833d021022cb1630ceaad3ef" extends="sys_import_set_row" label="Test" max_length="40" name="x_1209942_device_1_ihub_import_96fe0f06833d021022cb1630ceaad328" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=lifecycle_stage" label="lifecycle_stage" max_length="40" name="u_lifecycle_stage" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=serial_number" label="serial_number" max_length="40" name="u_serial_number" type="string"/>
+    </element>
+</database>

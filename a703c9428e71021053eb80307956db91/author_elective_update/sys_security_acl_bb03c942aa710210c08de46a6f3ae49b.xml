@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_1209942_device_1_needit</description>
+        <local_or_existing/>
+        <name>x_1209942_device_1_needit</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:18:26</sys_created_on>
+        <sys_id>bb03c942aa710210c08de46a6f3ae49b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1209942_device_1_needit</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sys_security_acl_bb03c942aa710210c08de46a6f3ae49b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:18:26</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sys_security_acl_bb03c942aa710210c08de46a6f3ae49b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_1209942_device_1_needit</description><local_or_existing/><name>x_1209942_device_1_needit</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 14:18:26</sys_created_on><sys_id>bb03c942aa710210c08de46a6f3ae49b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1209942_device_1_needit</sys_name><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sys_security_acl_bb03c942aa710210c08de46a6f3ae49b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 14:18:26</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-118408736</payload_hash>
+        <record_name>x_1209942_device_1_needit</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:44:13</sys_created_on>
+        <sys_id>06f80d4a8371021022cb1630ceaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f200389210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:44:13</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>c2f80d4ab7710210a8cc2d8d7b017a0c</update_guid>
+        <update_guid_history>c2f80d4ab7710210a8cc2d8d7b017a0c:-118408736</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:44:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>09f61e28c1ac4b64988e3493854e1390</sys_id>
+        <sys_metadata>bb03c942aa710210c08de46a6f3ae49b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1209942_device_1_needit</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent display_value="">3b03c9428371021022cb1630ceaad3aa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sys_security_acl_bb03c942aa710210c08de46a6f3ae49b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_bb03c942aa710210c08de46a6f3ae49b">06f80d4a8371021022cb1630ceaad30c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:44:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

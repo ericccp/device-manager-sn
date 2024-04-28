@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Device Manager">3f03c942b67102109dae428dd9a87fa4</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1209942_device_1_needit">stateNOT IN3,4,7^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>A list of records in the NeedIt table that do not have a State value of Closed.</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1209942_device_1_needit</name>
+        <order>300</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>false</require_confirmation>
+        <roles>x_1209942_device_1.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:18:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f303c9421d710210c3c2e625113c18a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sys_app_module_f303c9421d710210c3c2e625113c18a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:18:26</sys_updated_on>
+        <timeline_page/>
+        <title>Open</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sys_app_module_f303c9421d710210c3c2e625113c18a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Device Manager">3f03c942b67102109dae428dd9a87fa4</application><assessment/><device_type/><filter table="x_1209942_device_1_needit">stateNOT IN3,4,7^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>A list of records in the NeedIt table that do not have a State value of Closed.</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1209942_device_1_needit</name><order>300</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>false</require_confirmation><roles>x_1209942_device_1.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 14:18:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f303c9421d710210c3c2e625113c18a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_overrides/><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sys_app_module_f303c9421d710210c3c2e625113c18a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 14:18:26</sys_updated_on><timeline_page/><title>Open</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2021445573</payload_hash>
+        <record_name>Open</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:44:14</sys_created_on>
+        <sys_id>9af80d4a8371021022cb1630ceaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f20038b190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:44:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5af80d4a8d71021004e13762809a7432</update_guid>
+        <update_guid_history>5af80d4a8d71021004e13762809a7432:2021445573</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Open">52f80d4a8371021022cb1630ceaad333</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:44:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>8a81cde2b4a641e28eb58e88e7ba8224</sys_id>
+        <sys_metadata>f303c9421d710210c3c2e625113c18a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sys_app_module_f303c9421d710210c3c2e625113c18a4</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f303c9421d710210c3c2e625113c18a4">9af80d4a8371021022cb1630ceaad332</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:44:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

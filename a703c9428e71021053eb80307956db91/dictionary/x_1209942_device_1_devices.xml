@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=16000" db_object_id="4566c1868371021022cb1630ceaad34d" label="Devices" max_length="40" name="x_1209942_device_1_devices" text_index="true" type="collection">
+        <element dependent="shop.responsible_person" dependent_on_field="shop.responsible_person" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element label="Business Service" max_length="32" name="business_service" reference="x_1209942_device_1_business_services" type="reference"/>
+        <element choice="1" label="Lifecycle Stage" max_length="40" name="lifecycle_stage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Planning" sequence="0" value="Planning"/>
+                <element inactive_on_update="false" label="General Use" sequence="1" value="General Use"/>
+                <element inactive_on_update="false" label="Retired" sequence="2" value="Retired"/>
+                <element inactive_on_update="false" label="Missing -  Lost" sequence="3" value="Missing -  Lost"/>
+                <element inactive_on_update="false" label="Missing - Stolen" sequence="4" value="Missing - Stolen"/>
+                <element inactive_on_update="false" label="Disposed" sequence="5" value="Disposed"/>
+                <element inactive_on_update="false" label="In Transit" sequence="6" value="Shipping"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="7" value="Maintenance"/>
+                <element inactive_on_update="false" label="Break/Fix" sequence="8" value="Break/Fix"/>
+                <element inactive_on_update="false" label="Other" sequence="9" value="Other"/>
+                <element inactive_on_update="false" label="Ready to Use" sequence="10" value="Ready to Use"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
+        <element label="Shop" max_length="32" name="shop" reference="x_1209942_device_1_shops" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="business_service"/>
+        </index>
+        <index name="index3">
+            <element name="shop"/>
+        </index>
+    </element>
+</database>

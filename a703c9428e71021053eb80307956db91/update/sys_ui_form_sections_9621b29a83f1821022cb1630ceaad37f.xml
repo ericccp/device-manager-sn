@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9621b29a83f1821022cb1630ceaad37f" sys_domain="global" table="x_1209942_device_1_device_manager_assets" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-28 16:57:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e217a9a83f1821022cb1630ceaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1209942_device_1_device_manager_assets" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9621b29a83f1821022cb1630ceaad37f</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">d2217a9a83f1821022cb1630ceaad304</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-28 16:57:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-28 16:57:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e217a9a83f1821022cb1630ceaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1209942_device_1_device_manager_assets" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9621b29a83f1821022cb1630ceaad37f</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5e213a9a83f1821022cb1630ceaad3fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-28 16:57:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-28 16:57:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de213a9a83f1821022cb1630ceaad3f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1209942_device_1_device_manager_assets" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9621b29a83f1821022cb1630ceaad37f</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9e21b29a83f1821022cb1630ceaad382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-28 16:57:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-28 16:57:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56217a9a83f1821022cb1630ceaad31a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1209942_device_1_device_manager_assets" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9621b29a83f1821022cb1630ceaad37f</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">92217a9a83f1821022cb1630ceaad316</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-28 16:57:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-28 16:57:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6213a9a83f1821022cb1630ceaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1209942_device_1_device_manager_assets" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9621b29a83f1821022cb1630ceaad37f</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_1209942_device_1_device_manager_assets" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">5a213a9a83f1821022cb1630ceaad3f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-28 16:57:55</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1209942_device_1_device_manager_assets</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-28 16:57:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9621b29a83f1821022cb1630ceaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1209942_device_1_device_manager_assets</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9621b29a83f1821022cb1630ceaad37f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-28 16:57:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

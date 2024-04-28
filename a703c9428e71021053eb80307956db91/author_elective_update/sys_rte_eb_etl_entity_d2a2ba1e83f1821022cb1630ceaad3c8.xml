@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="DELETE">
+        <child_id_field/>
+        <name>Target_x_1209942_device_1_device_manager_assets</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>x_1209942_device_1_device_manager_assets</path>
+        <run_business_rules>true</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 17:04:28</sys_created_on>
+        <sys_id>d2a2ba1e83f1821022cb1630ceaad3c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Target_x_1209942_device_1_device_manager_assets</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Load Sample Assets_etl_ihub">f212ba9a83f1821022cb1630ceaad3aa</sys_rte_eb_definition>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_d2a2ba1e83f1821022cb1630ceaad3c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 17:04:28</sys_updated_on>
+        <table>x_1209942_device_1_device_manager_assets</table>
+    </sys_rte_eb_etl_entity>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sys_rte_eb_etl_entity_d2a2ba1e83f1821022cb1630ceaad3c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity"><sys_rte_eb_etl_entity action="INSERT_OR_UPDATE"><child_id_field/><name>Target_x_1209942_device_1_device_manager_assets</name><parent_entity/><parent_id_field/><path>x_1209942_device_1_device_manager_assets</path><run_business_rules>true</run_business_rules><synchronize_inserts>false</synchronize_inserts><sys_class_name>sys_rte_eb_etl_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-28 17:04:28</sys_created_on><sys_id>d2a2ba1e83f1821022cb1630ceaad3c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Target_x_1209942_device_1_device_manager_assets</sys_name><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_rte_eb_definition display_value="Load Sample Assets_etl_ihub">f212ba9a83f1821022cb1630ceaad3aa</sys_rte_eb_definition><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sys_rte_eb_etl_entity_d2a2ba1e83f1821022cb1630ceaad3c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-28 17:04:28</sys_updated_on><table>x_1209942_device_1_device_manager_assets</table></sys_rte_eb_etl_entity></record_update>]]></payload>
+        <payload_hash>-1133835178</payload_hash>
+        <record_name>Target_x_1209942_device_1_device_manager_assets</record_name>
+        <reverted_from/>
+        <source>30134d428371021022cb1630ceaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 17:04:28</sys_created_on>
+        <sys_id>96a2ba1e83f1821022cb1630ceaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f25aa4c550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 17:04:28</sys_updated_on>
+        <type>ETL Entity</type>
+        <update_guid>9aa2ba1e28f182108ea43b86dba0b6c9</update_guid>
+        <update_guid_history>9aa2ba1e28f182108ea43b86dba0b6c9:-1133835178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 17:11:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_entity">sys_rte_eb_etl_entity</sys_db_object>
+        <sys_id>5a7241b0b759412c9fff897c69db8510</sys_id>
+        <sys_metadata>d2a2ba1e83f1821022cb1630ceaad3c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Target_x_1209942_device_1_device_manager_assets</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_entity_d2a2ba1e83f1821022cb1630ceaad3c8</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_entity_d2a2ba1e83f1821022cb1630ceaad3c8">96a2ba1e83f1821022cb1630ceaad3ca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 17:11:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

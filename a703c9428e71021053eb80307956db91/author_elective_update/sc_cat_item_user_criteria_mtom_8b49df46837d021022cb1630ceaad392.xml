@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Replace Device">7866d302837d021022cb1630ceaad3c7</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 01:14:48</sys_created_on>
+        <sys_id>8b49df46837d021022cb1630ceaad392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Replace Device.ITIL non-admin</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8b49df46837d021022cb1630ceaad392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 01:14:48</sys_updated_on>
+        <user_criteria display_value="ITIL non-admin">685feaf1edc01110f877faea558f6907</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_8b49df46837d021022cb1630ceaad392</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Replace Device">7866d302837d021022cb1630ceaad3c7</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-28 01:14:48</sys_created_on><sys_id>8b49df46837d021022cb1630ceaad392</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Replace Device.ITIL non-admin</sys_name><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_8b49df46837d021022cb1630ceaad392</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-28 01:14:48</sys_updated_on><user_criteria display_value="ITIL non-admin">685feaf1edc01110f877faea558f6907</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-90990641</payload_hash>
+        <record_name>Replace Device.ITIL non-admin</record_name>
+        <reverted_from/>
+        <source>30134d428371021022cb1630ceaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 01:14:48</sys_created_on>
+        <sys_id>8b49df46837d021022cb1630ceaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f2244da140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 01:14:48</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>cb49df46be7d021036870fda074c2b95</update_guid>
+        <update_guid_history>cb49df46be7d021036870fda074c2b95:-90990641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Replace Device.ITIL non-admin">c859df46837d021022cb1630ceaad3f2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 01:14:52</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>30363fc3f03047b89c062787e1fc6bc1</sys_id>
+        <sys_metadata>8b49df46837d021022cb1630ceaad392</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Replace Device.ITIL non-admin</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_8b49df46837d021022cb1630ceaad392</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_8b49df46837d021022cb1630ceaad392">8b49df46837d021022cb1630ceaad396</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 01:14:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

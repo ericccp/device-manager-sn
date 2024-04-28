@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{
+    "b47c9480075111106670d9630ad300fe": {
+        "inputParentSysId": "-1",
+        "inputParentTable": "incident",
+        "inputPlaybookExperience": null,
+        "inputRecordGeneratorQuery": null,
+        "inputSelectedActivityContextId": null,
+        "inputSelectedPlaybookContextId": null,
+        "inputSelectedStageContextId": null
+    },
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": {},
+        "fields": null,
+        "forcedViewName": "",
+        "inputExtraParams": "",
+        "inputQuery": "",
+        "inputSysId": "-1",
+        "inputTable": "interaction",
+        "screen": null,
+        "selectedTabIndex": 0,
+        "userPrefs": null,
+        "view": "default view"
+    },
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "allowBoth",
+        "columnLimit": 0,
+        "columns": "",
+        "currentPage": 0,
+        "enableCellFiltering": true,
+        "enableColumnSorting": true,
+        "enableDeclarativeActions": true,
+        "enableDotWalk": true,
+        "enableLiveList": false,
+        "enableQuickEdit": true,
+        "enableReferenceLinks": true,
+        "fetchHighlightedValues": false,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "table": "x_1209942_device_1_devices"
+    }
+}</macroponent_config>
+        <screen display_value="Default">0215564a83f5021022cb1630ceaad308</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:16:49</sys_created_on>
+        <sys_id>8e15564a83f5021022cb1630ceaad30a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_8e15564a83f5021022cb1630ceaad30a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:41:20</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sys_uib_screen_test_values_8e15564a83f5021022cb1630ceaad30a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{
+    "b47c9480075111106670d9630ad300fe": {
+        "inputParentSysId": "-1",
+        "inputParentTable": "incident",
+        "inputPlaybookExperience": null,
+        "inputRecordGeneratorQuery": null,
+        "inputSelectedActivityContextId": null,
+        "inputSelectedPlaybookContextId": null,
+        "inputSelectedStageContextId": null
+    },
+    "029f04e053610110ac9bddeeff7b1294": {
+        "activityLogs": null,
+        "detailsContext": {},
+        "fields": null,
+        "forcedViewName": "",
+        "inputExtraParams": "",
+        "inputQuery": "",
+        "inputSysId": "-1",
+        "inputTable": "interaction",
+        "screen": null,
+        "selectedTabIndex": 0,
+        "userPrefs": null,
+        "view": "default view"
+    },
+    "5865e308432021105571609dc7b8f23b": {
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "allowBoth",
+        "columnLimit": 0,
+        "columns": "",
+        "currentPage": 0,
+        "enableCellFiltering": true,
+        "enableColumnSorting": true,
+        "enableDeclarativeActions": true,
+        "enableDotWalk": true,
+        "enableLiveList": false,
+        "enableQuickEdit": true,
+        "enableReferenceLinks": true,
+        "fetchHighlightedValues": false,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "table": "x_1209942_device_1_devices"
+    }
+}</macroponent_config><screen display_value="Default">0215564a83f5021022cb1630ceaad308</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 20:16:49</sys_created_on><sys_id>8e15564a83f5021022cb1630ceaad30a</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sys_uib_screen_test_values_8e15564a83f5021022cb1630ceaad30a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 20:41:20</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>-257261740</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>30134d428371021022cb1630ceaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:41:20</sys_created_on>
+        <sys_id>d1bada028339021022cb1630ceaad34b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f214a7ccd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:41:20</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>99bada0252390210ebac48b8809a8a4a</update_guid>
+        <update_guid_history>99bada0252390210ebac48b8809a8a4a:-257261740,7ae5d68a2df5021019fcac851fbc5d2a:-1725926172,4215564a3ef50210d8be513287e9fa0c:-985903461</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:48:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>411802484dff49e4be868b2b41d563d9</sys_id>
+        <sys_metadata>8e15564a83f5021022cb1630ceaad30a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_8e15564a83f5021022cb1630ceaad30a</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_8e15564a83f5021022cb1630ceaad30a">d1bada028339021022cb1630ceaad34b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:48:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>device_type_information</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 02:37:42</sys_created_on>
+        <sys_id>044cefc683fd021022cb1630ceaad345</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Device Type Information</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>item_option_new_set_044cefc683fd021022cb1630ceaad345</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-28 02:40:05</sys_updated_on>
+        <title>Device Type Information</title>
+        <type>one_to_one</type>
+        <version>7</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

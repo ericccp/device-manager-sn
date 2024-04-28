@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>Import devices</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>Device Imports</name>
+        <record_id>52fe0f06833d021022cb1630ceaad329</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 00:29:42</sys_created_on>
+        <sys_id>96fe0f06833d021022cb1630ceaad328</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Device Imports</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_96fe0f06833d021022cb1630ceaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 00:34:51</sys_updated_on>
+    </sn_ihub_integration_instance>
+</record_update>

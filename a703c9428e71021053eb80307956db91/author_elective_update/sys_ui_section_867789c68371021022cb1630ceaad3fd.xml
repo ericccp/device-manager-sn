@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Devices" section_id="867789c68371021022cb1630ceaad3fd" sys_domain="global" table="x_1209942_device_1_shops" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_1209942_device_1_shops.x_1209942_device_1_devices.shop</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 14:37:41</sys_created_on>
+            <sys_id>5677c9c68371021022cb1630ceaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Devices" display_value="Devices" name="x_1209942_device_1_shops" sys_domain="global" view="Default view">867789c68371021022cb1630ceaad3fd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 14:37:41</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Devices</caption>
+            <header>false</header>
+            <name>x_1209942_device_1_shops</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 14:37:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>867789c68371021022cb1630ceaad3fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1209942_device_1_shops</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+            <sys_update_name>sys_ui_section_867789c68371021022cb1630ceaad3fd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 14:37:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sys_ui_section_867789c68371021022cb1630ceaad3fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Devices" section_id="867789c68371021022cb1630ceaad3fd" sys_domain="global" table="x_1209942_device_1_shops" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>12M.x_1209942_device_1_shops.x_1209942_device_1_devices.shop</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 14:37:41</sys_created_on><sys_id>5677c9c68371021022cb1630ceaad3a9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Devices" display_value="Devices" name="x_1209942_device_1_shops" sys_domain="global" view="Default view">867789c68371021022cb1630ceaad3fd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 14:37:41</sys_updated_on><sys_user/><type>list</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Devices</caption><header>false</header><name>x_1209942_device_1_shops</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 14:37:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>867789c68371021022cb1630ceaad3fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1209942_device_1_shops</sys_name><sys_overrides/><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sys_ui_section_867789c68371021022cb1630ceaad3fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 14:37:40</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1261623846</payload_hash>
+        <record_name>Shops</record_name>
+        <reverted_from/>
+        <source>30134d428371021022cb1630ceaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 14:37:41</sys_created_on>
+        <sys_id>5677c9c68371021022cb1630ceaad3ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f1ffd8d910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 14:37:41</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>da77c9c6ba71021028fe0c7885ecd2aa</update_guid>
+        <update_guid_history>da77c9c6ba71021028fe0c7885ecd2aa:-1261623846</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 00:43:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>11532d977e5442dc8334e5bb7c4c90c4</sys_id>
+        <sys_metadata>867789c68371021022cb1630ceaad3fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Devices</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent display_value="Shops">0e85cd068371021022cb1630ceaad32d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sys_ui_section_867789c68371021022cb1630ceaad3fd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_867789c68371021022cb1630ceaad3fd">5677c9c68371021022cb1630ceaad3ab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 00:43:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

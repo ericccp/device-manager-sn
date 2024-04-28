@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=16000" db_object_id="b9213a9a83f1821022cb1630ceaad31b" extends="alm_asset" label="device_manager_assets" max_length="40" name="x_1209942_device_1_device_manager_assets" type="collection">
+        <element choice="1" label="Business Service" max_length="40" name="business_service" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fuel Delivery" sequence="0" value="Fuel Delivery"/>
+                <element inactive_on_update="false" label="Supply Chain" sequence="1" value="Supply Chain"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="2" value="Maintenance"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Vertical" max_length="32" name="vertical" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="vertical"/>
+        </index>
+    </element>
+</database>

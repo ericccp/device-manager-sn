@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FD064fc746fd3d0210b285701c5acf6e13">c64fc746833d021022cb1630ceaad313</published_source_structure>
+        <record_id>52fe0f06833d021022cb1630ceaad329</record_id>
+        <source_structure display_value="ih_import_FD064fc746fd3d0210b285701c5acf6e13">c64fc746833d021022cb1630ceaad313</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 00:31:03</sys_created_on>
+        <sys_id>c24fc746833d021022cb1630ceaad391</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_c24fc746833d021022cb1630ceaad391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 00:32:39</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

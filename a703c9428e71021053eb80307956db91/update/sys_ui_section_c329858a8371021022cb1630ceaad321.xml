@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Devices" section_id="c329858a8371021022cb1630ceaad321" sys_domain="global" table="x_1209942_device_1_shops" version="3" view="workspace-device-manager-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_1209942_device_1_shops.x_1209942_device_1_devices.shop</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 14:45:06</sys_created_on>
+            <sys_id>cf29858a8371021022cb1630ceaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Devices" display_value="Devices" name="x_1209942_device_1_shops" sys_domain="global" view="1c29818aeb710210f35e38ad56d26980">c329858a8371021022cb1630ceaad321</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 14:45:06</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Devices</caption>
+            <header>false</header>
+            <name>x_1209942_device_1_shops</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 14:45:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c329858a8371021022cb1630ceaad321</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1209942_device_1_shops</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+            <sys_update_name>sys_ui_section_c329858a8371021022cb1630ceaad321</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 14:45:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Device Manager 0" name="workspace-device-manager-0">1c29818aeb710210f35e38ad56d26980</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

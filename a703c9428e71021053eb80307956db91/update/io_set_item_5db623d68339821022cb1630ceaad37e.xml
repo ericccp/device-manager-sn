@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="MDM Compliance Audit">95b62b968339821022cb1630ceaad3a5</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 20:51:52</sys_created_on>
+        <sys_id>5db623d68339821022cb1630ceaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device.Copy of Wi-Fi Service Account Audit</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>io_set_item_5db623d68339821022cb1630ceaad37e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 20:51:52</sys_updated_on>
+        <variable_set display_value="Device">25376f8e83bd021022cb1630ceaad37b</variable_set>
+    </io_set_item>
+</record_update>

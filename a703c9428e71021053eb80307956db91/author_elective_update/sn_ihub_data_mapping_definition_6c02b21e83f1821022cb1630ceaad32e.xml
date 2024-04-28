@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>21f1721e83f1821022cb1630ceaad33c</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 17:01:38</sys_created_on>
+        <sys_id>6c02b21e83f1821022cb1630ceaad32e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_6c02b21e83f1821022cb1630ceaad32e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 17:02:14</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Device Manager">a703c9428e71021053eb80307956db91</application>
+        <file_path/>
+        <instance_id>eeb80fccdbd9ca502f082a5913961979</instance_id>
+        <instance_name>dev250180</instance_name>
+        <name>sn_ihub_data_mapping_definition_6c02b21e83f1821022cb1630ceaad32e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>21f1721e83f1821022cb1630ceaad33c</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-28 17:01:38</sys_created_on><sys_id>6c02b21e83f1821022cb1630ceaad32e</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package><sys_policy/><sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_6c02b21e83f1821022cb1630ceaad32e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-28 17:02:14</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>-737628268</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>51dfa11e8db0021087de63ac7f1f000b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-04-28 17:11:30</sys_created_on>
+        <sys_id>1144bede83f1821022cb1630ceaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f25b0bc230000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-04-28 17:11:30</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>1d44bede1ff18210a1ae229cf6309617</update_guid>
+        <update_guid_history>1d44bede1ff18210a1ae229cf6309617:0,9544bede3cf1821061a77b69a73c0d15:0,d922f6dac8f1821082408452a6251825:7453463,a802b21eb8f18210dcd8250e8910bb30:-1291623040</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5544bede83f1821022cb1630ceaad31a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 17:11:30</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>12316680a8a64616850879ddf70a85e1</sys_id>
+        <sys_metadata>6c02b21e83f1821022cb1630ceaad32e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_scope_delete display_value="">7ae53f8486894421aba1bb492139a999</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_6c02b21e83f1821022cb1630ceaad32e</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_6c02b21e83f1821022cb1630ceaad32e">1144bede83f1821022cb1630ceaad318</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 17:11:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

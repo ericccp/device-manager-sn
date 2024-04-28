@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Google Zero Touch Audit">eb45afd28339821022cb1630ceaad36e</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 20:45:45</sys_created_on>
+        <sys_id>b745efd28339821022cb1630ceaad300</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Lookup Device.ITIL non-admin</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_b745efd28339821022cb1630ceaad300</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 20:45:45</sys_updated_on>
+        <user_criteria display_value="ITIL non-admin">685feaf1edc01110f877faea558f6907</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

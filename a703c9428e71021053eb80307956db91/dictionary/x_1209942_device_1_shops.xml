@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="timeFromCreateToActivate=16000" audit="true" db_object_id="0e85cd068371021022cb1630ceaad32d" label="Shops" max_length="40" name="x_1209942_device_1_shops" text_index="true" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Region" max_length="40" name="region" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="West" sequence="0" value="West"/>
+                <element inactive_on_update="false" label="North" sequence="1" value="North"/>
+                <element inactive_on_update="false" label="South" sequence="2" value="South"/>
+                <element inactive_on_update="false" label="Canada" sequence="3" value="Canada"/>
+            </choice>
+        </element>
+        <element label="Responsible Person" max_length="32" name="responsible_person" reference="sys_user" type="reference"/>
+        <element attributes="timeFromCreateToActivate=16000" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="responsible_person"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

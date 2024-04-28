@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Return Type">9fe5d302837d021022cb1630ceaad328</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-28 01:00:39</sys_created_on>
+        <sys_id>33069702837d021022cb1630ceaad302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fulfillment Error</sys_name>
+        <sys_package display_value="Device Manager" source="x_1209942_device_1">a703c9428e71021053eb80307956db91</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Device Manager">a703c9428e71021053eb80307956db91</sys_scope>
+        <sys_update_name>question_choice_33069702837d021022cb1630ceaad302</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-28 01:00:39</sys_updated_on>
+        <text>Fulfillment Error</text>
+        <value>fulfillment_error</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=33069702837d021022cb1630ceaad302"/>
+</record_update>
